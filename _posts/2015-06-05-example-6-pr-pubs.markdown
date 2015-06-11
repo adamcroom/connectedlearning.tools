@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2015-06-05
-img: dooo.jpg
+img: prpubs.jpg
 alt: image-alt
 project-date: 2012
 platform: domains, hosting, cPanel, web, syndication
